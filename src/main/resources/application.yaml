@@ -17,5 +17,5 @@ spring:
 
 envio:
   email:
-    remetente: likepipoca@gmail.com
-    nomeRemetente: 'Rafael'
+    remetente: 
+    nomeRemetente: 
